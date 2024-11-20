@@ -1,6 +1,10 @@
 .component {
   width: 20rem;
-  height: 30rem;
+
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
 
   background-color: rgba(53, 52, 50);
   /* opacity: 0.8 */
