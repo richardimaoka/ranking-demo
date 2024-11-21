@@ -8,3 +8,13 @@
 
   background-color: rgb(102, 102, 105);
 }
+
+.page > * {
+  grid-area: center;
+}
+
+.background {
+  width: 100svw;
+  height: 100svh;
+  object-fit: cover;
+}
